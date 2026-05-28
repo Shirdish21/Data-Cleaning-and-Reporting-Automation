@@ -40,19 +40,19 @@ The automation workflow improves data preprocessing efficiency and helps generat
 
 ## Histogram Visualization
 
-![]
+![Histogram](screenshots/histogram_visualization.png)
 
 ---
 
 ## Bar Chart Summary
 
-<img src="./bar_chart_summary.png" width="800">
+![Bar chart summary](screenshots/bar_chart_summary.png)
 
 ---
 
 ## Missing Values Report
 
-<img src="./missing_values_report.png" width="800">
+![Missing values](screenshots/missing_values_report.png)
 
 ---
 
